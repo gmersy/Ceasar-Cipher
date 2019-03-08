@@ -92,7 +92,7 @@ int main()
 		}
 		else
 		{
-			cout << "INVALID ROTATION... TERMINATING" << endl;
+			cout << "INVALID CIPHER ROTATION VALUE" << endl;
 			return 0;
 		}
 
